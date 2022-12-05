@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 
-Console.Write("Введите число: ");
+Console.Write("Введите первое число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 if (n % 7 == 0) 
