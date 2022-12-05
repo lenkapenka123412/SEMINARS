@@ -1,4 +1,4 @@
-﻿// Task2
+﻿// Task1
 Console.Clear();
 Console.Write("Введите первое число: ");
 int n = Convert.ToInt32(Console.ReadLine());
