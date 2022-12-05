@@ -7,5 +7,7 @@ int m = Convert.ToInt32(Console.ReadLine());
 
 if (n * n == m) 
     Console.WriteLine("Да");
-    else
+else if (m * m == n)
+    Console.WriteLine("Да");
+else
     Console.WriteLine("Нет");
