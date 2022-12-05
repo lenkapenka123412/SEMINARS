@@ -14,7 +14,7 @@ while(n < 1 || n > 7)
         Console.Write("Вы ошиблись!\n");
         n = Convert.ToInt32(Console.ReadLine());
     }
-if(n == 1 || n <= 5)
+if(n <= 5)
     {  
         Console.Write("Будний день, иди на работу(((");
     }
