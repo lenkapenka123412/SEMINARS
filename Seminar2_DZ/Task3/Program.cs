@@ -21,5 +21,3 @@ if(n <= 5)
 else
     Console.WriteLine("Ура! выходной!!!");
     
-
-    
