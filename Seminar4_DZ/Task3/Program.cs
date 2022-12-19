@@ -5,7 +5,7 @@
 */
 
 Console.Clear();
-Console.WriteLine("Ввод массива: ");
+Console.WriteLine("Заполните массив: ");
 int[] n = new int[8];
 for(int i = 0; i < n.Length; i++)
 {
