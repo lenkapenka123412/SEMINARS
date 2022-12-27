@@ -26,4 +26,4 @@ int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n];
 InputArray(array);
 Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
-Console.WriteLine(ReleaseArray(array));
+Console.WriteLine($"Количество чётных чисел в массиве: {ReleaseArray(array)}");
