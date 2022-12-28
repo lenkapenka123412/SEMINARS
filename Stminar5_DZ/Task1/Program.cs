@@ -21,7 +21,7 @@ return count;
 }
 
 Console.Clear();
-Console.Write("Введите кол-во элементов массива: ");
+Console.Write("Введите количество элементов массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n];
 InputArray(array);
