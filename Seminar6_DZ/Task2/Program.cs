@@ -12,6 +12,6 @@ Console.Write("Введите значение k2: ");
 double k2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите значение b2: ");
 double b2 = Convert.ToDouble(Console.ReadLine());
-double x = (b2 - b1) / (k1 - k2);
-double y = k1 * x + b1;
+double x = (b2 - b1) / (k1 - k2); // x = (4-2)/(5-9)=2-(-4)=-0,5
+double y = k1 * x + b1; // у = 5*(-0,5)+2=-0,5
 Console.WriteLine($"Точка пересечения двух прямых Y {y}, X {x}");
