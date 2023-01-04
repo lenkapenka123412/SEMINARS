@@ -1,0 +1,15 @@
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\bin\Debug\net6.0\Tsk3.exe
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\bin\Debug\net6.0\Tsk3.deps.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\bin\Debug\net6.0\Tsk3.runtimeconfig.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\bin\Debug\net6.0\Tsk3.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\bin\Debug\net6.0\Tsk3.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.csproj.AssemblyReference.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.AssemblyInfoInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.AssemblyInfo.cs
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.csproj.CoreCompileInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\refint\Tsk3.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\Tsk3.genruntimeconfig.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Tsk3\obj\Debug\net6.0\ref\Tsk3.dll

@@ -1,0 +1,15 @@
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\bin\Debug\net6.0\Task2.exe
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\bin\Debug\net6.0\Task2.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\bin\Debug\net6.0\Task2.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar7\Task2\obj\Debug\net6.0\ref\Task2.dll
