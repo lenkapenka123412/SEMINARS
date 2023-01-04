@@ -33,6 +33,6 @@ int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
 int[,] matrix = new int[size[0], size[1]];
 InputMatrix(matrix);
 
-Console.Write("какой элемент массива вывести: ");
+Console.Write("Какой элемент массива вывести: ");
 int[] positionXY = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
 ElementPosition(matrix, positionXY[0], positionXY[1]);
