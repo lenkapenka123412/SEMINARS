@@ -1,0 +1,15 @@
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\bin\Debug\net6.0\DOP_Transponirovanie.exe
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\bin\Debug\net6.0\DOP_Transponirovanie.deps.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\bin\Debug\net6.0\DOP_Transponirovanie.runtimeconfig.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\bin\Debug\net6.0\DOP_Transponirovanie.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\bin\Debug\net6.0\DOP_Transponirovanie.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.csproj.AssemblyReference.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.AssemblyInfoInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.AssemblyInfo.cs
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.csproj.CoreCompileInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\refint\DOP_Transponirovanie.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\DOP_Transponirovanie.genruntimeconfig.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\SEMINARS\Seminar9\DOP_Transponirovanie\obj\Debug\net6.0\ref\DOP_Transponirovanie.dll
